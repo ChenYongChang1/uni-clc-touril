@@ -1,48 +1,34 @@
 <template>
-  <view class="content">
-    <image class="logo" src="/static/logo.png"></image>
-    <view class="text-area">
-      <text class="title">{{ title }}</text>
+  <view class="box-container">
+    <view class="banner">
+      <image class="image-banner" src="@/static/waitan.jpg" mode="scaleToFill" />
+    </view>
+    <view class="modules">
+      <module-component></module-component>
     </view>
   </view>
 </template>
 
-<script>
-export default {
-  data() {
-    return {
-      title: 'Hello',
-    }
-  },
-  onLoad() {},
-  methods: {},
-}
+<script setup>
+import { ref } from "vue";
+const title = ref("ddd");
+import ModuleComponent from '@/components/index/ModuleComponent.vue'
 </script>
 
-<style>
-.content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-.logo {
-  height: 200rpx;
-  width: 200rpx;
-  margin-top: 200rpx;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 50rpx;
-}
-
-.text-area {
-  display: flex;
-  justify-content: center;
-}
-
-.title {
-  font-size: 36rpx;
-  color: #8f8f94;
+<style lang="scss" scoped>
+.box-container {
+  padding: 0 0.5rem;
+  .banner {
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 24rpx;
+    .image-banner {
+      width: 100%;
+      border-radius: 0.5rem;
+    }
+  }
+  .modules {
+    width: 100%;
+  }
 }
 </style>
