@@ -22,7 +22,6 @@ import { computed } from "vue";
 import { marked } from "marked";
 import AtricleList from "@/config/config";
 import { onMounted, ref } from "vue";
-import mpHtml from "mp-html/dist/uni-app/components/mp-html/mp-html";
 
 // 定义一个响应式变量来存储 query 参数
 const query = ref({});
@@ -44,14 +43,15 @@ onMounted(() => {
 const content = computed(() => {
   let str = marked(rowInfo.value.content || "");
   // console.log(str, rowInfo.value.content, "str");
-  // str = str.replace(/\<p>/g, '<p class="p">');
-  // str = str.replace(/\<span>/g, '<span class="span">');
-  // str = str.replace(/\<div>/g, '<div class="div">');
-  // str = str.replace(/\<h1>/g, '<h1 class="h1">');
-  // str = str.replace(/\<h2>/g, '<h2 class="h2">');
-  // str = str.replace(/\<h3>/g, '<h3 class="h3">');
-  // str = str.replace(/\<h4>/g, '<h4 class="h4">');
-  // str = str.replace(/\<h5>/g, '<h5 class="h5">');
+  str = str.replace(/\<p>/g, '<p class="p">');
+  str = str.replace(/\<span>/g, '<span class="span">');
+  str = str.replace(/\<div>/g, '<div class="div">');
+  str = str.replace(/\<h1>/g, '<h1 class="h1">');
+  str = str.replace(/\<h2>/g, '<h2 class="h2">');
+  str = str.replace(/\<h3>/g, '<h3 class="h3">');
+  str = str.replace(/\<h4>/g, '<h4 class="h4">');
+  str = str.replace(/\<h5>/g, '<h5 class="h5">');
+    str = str.replace(/\<ul>/g, '<ul class="ul">');
   return str;
 });
 </script>
