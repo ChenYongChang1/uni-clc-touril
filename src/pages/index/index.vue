@@ -1,7 +1,7 @@
 <template>
   <view class="box-container">
     <view class="banner">
-      <image class="image-banner" src="@/static/waitan.jpg" mode="scaleToFill" />
+      <image class="image-banner" src="https://cyc-save.oss-cn-shanghai.aliyuncs.com/clc/waitan.jpg" mode="scaleToFill" />
     </view>
     <view class="modules">
       <module-component></module-component>

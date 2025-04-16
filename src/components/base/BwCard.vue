@@ -1,13 +1,13 @@
 <template>
   <view class="card-info" @click="linkTo">
     <view class="card-cover">
-      <image class="image-cover" src="@/static/waitan.jpg" />
+      <image class="image-cover" :src="row.cover" />
     </view>
     <view class="card-info-text">
-      <view class="card-title">标题标题标题标</view>
+      <view class="card-title">{{ row.title }}</view>
       <view class="card-message">
-        <view class="day">周二 04/01</view>
-        <view>龙华路</view>
+        <!-- <view class="day">周二 04/01</view> -->
+        <view>{{ row?.position?.text }}</view>
       </view>
     </view>
   </view>
@@ -15,9 +15,15 @@
 
 <script setup>
 defineOptions({ name: "BwCard" });
+const props = defineProps({
+  row: {
+    type: Object,
+    default: () => ({}),
+  },
+});
 const linkTo = () => {
   uni.navigateTo({
-    url: `/pages/detail/detail?id=${123}`,
+    url: `/pages/detail/detail?id=${props.row.id}`,
   });
 };
 </script>

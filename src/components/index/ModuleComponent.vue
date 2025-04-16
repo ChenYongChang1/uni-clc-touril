@@ -2,14 +2,14 @@
   <view class="title"> 近期活动 </view>
   <view class="desc-text">现在就和我们一起出发</view>
   <view class="module-cards">
-    <bw-card></bw-card>
-    <bw-card></bw-card>
+    <bw-card v-for="(item, index) in AtricleList" :key="`row-${item.id}`" :row="item"></bw-card>
   </view>
 </template>
 
 <script setup>
 defineOptions({ name: "ModuleComponent" });
 import BwCard from "@/components/base/BwCard.vue";
+import AtricleList from '@/config/config'
 
 </script>
 

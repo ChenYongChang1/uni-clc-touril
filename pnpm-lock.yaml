@@ -56,6 +56,9 @@ importers:
       marked:
         specifier: ^15.0.7
         version: 15.0.7
+      mp-html:
+        specifier: ^2.5.0
+        version: 2.5.0
       vue:
         specifier: ^3.4.21
         version: 3.5.13
@@ -2724,6 +2727,9 @@ packages:
 
   module-alias@2.2.3:
     resolution: {integrity: sha512-23g5BFj4zdQL/b6tor7Ji+QY4pEfNH784BMslY9Qb0UnJWRAt+lQGLYmRaM0KDBwIG23ffEBELhZDP2rhi9f/Q==}
+
+  mp-html@2.5.0:
+    resolution: {integrity: sha512-uvBH5tIaDIlj8qaxsvNXU3RKX0jvXOo3J6FAi/notUv/ds6j79UUTE82aDkxxUk0eLUU0CiCqMrR7WWnytk30Q==}
 
   ms@2.0.0:
     resolution: {integrity: sha512-Tpp60P6IUJDTuOq/5Z8cdskzJujfwqfOTkrwIwj7IRISpnkJnT6SyJ4PCPnGMoFjC9ddhal5KVIYtAt97ix05A==}
@@ -7220,6 +7226,8 @@ snapshots:
       ufo: 1.5.4
 
   module-alias@2.2.3: {}
+
+  mp-html@2.5.0: {}
 
   ms@2.0.0: {}
 
