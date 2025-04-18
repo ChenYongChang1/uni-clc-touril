@@ -3,19 +3,19 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				"navigationBarTitleText": "旅游"
+				"navigationBarTitleText": "伴爱户外"
 			}
 		},
 		{
 			"path": "pages/detail/detail",
 			"style": {
-				"navigationBarTitleText": "旅游"
+				"navigationBarTitleText": "伴爱户外"
 			}
 		}
 	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "旅游",
+		"navigationBarTitleText": "伴爱户外",
 		"navigationBarBackgroundColor": "#F8F8F8",
 		"backgroundColor": "#F8F8F8"
 	}
