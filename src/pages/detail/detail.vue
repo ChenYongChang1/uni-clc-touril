@@ -57,9 +57,15 @@ const content = computed(() => {
 </script>
 
 <style lang="scss" scoped>
-.image-cover {
+.bg-cover {
   width: 100%;
   position: relative;
+  padding-bottom: 130%;
+}
+.image-cover {
+  width: 100%;
+  height: 100%;
+  position: absolute;
   z-index: 1;
 }
 .introduced-info {
