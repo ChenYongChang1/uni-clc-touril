@@ -18,6 +18,7 @@ import ModuleComponent from '@/components/index/ModuleComponent.vue'
 <style lang="scss" scoped>
 .box-container {
   padding: 0 0.5rem;
+  margin-bottom: 20px;
   .banner {
     width: 100%;
     overflow: hidden;

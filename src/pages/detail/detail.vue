@@ -67,7 +67,7 @@ const content = computed(() => {
   z-index: 2;
   top: -40px;
   min-height: 100px;
-  margin-bottom: -40px;
+  margin-bottom: -20px;
   .introduced-card {
     width: 90%;
     border-radius: 8px;
