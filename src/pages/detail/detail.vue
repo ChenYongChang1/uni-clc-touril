@@ -51,7 +51,8 @@ const content = computed(() => {
   str = str.replace(/\<h3>/g, '<h3 class="h3">');
   str = str.replace(/\<h4>/g, '<h4 class="h4">');
   str = str.replace(/\<h5>/g, '<h5 class="h5">');
-    str = str.replace(/\<ul>/g, '<ul class="ul">');
+  str = str.replace(/\<ul>/g, '<ul class="ul">');
+  str = str.replace(/\<img/g, '<img class="img" ');
   return str;
 });
 </script>

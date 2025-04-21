@@ -63,4 +63,18 @@ export default `#### 巍巍青山，悠悠江水。马岭古道躺倒在这八�
 ---
 
 **立即报名** ➡️ 扫码进企业微信群，开启你的松弛之旅  
-**团体定制** 👥 联系景超 18616118918`
+**团体定制** 👥 联系景超 18616118918
+![1](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E9%A9%AC%E5%B2%AD%E5%8F%A4%E9%81%931.jpg)
+![2](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E9%A9%AC%E5%B2%AD%E5%8F%A4%E9%81%932.jpeg)
+![3](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E9%A9%AC%E5%B2%AD%E5%8F%A4%E9%81%933.jpeg)
+![4](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E9%A9%AC%E5%B2%AD%E5%8F%A4%E9%81%934.jpg)
+![5](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E9%A9%AC%E5%B2%AD%E5%8F%A4%E9%81%935.jpg)
+![6](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E9%A9%AC%E5%B2%AD%E5%8F%A4%E9%81%936.jpeg)
+![7](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E9%A9%AC%E5%B2%AD%E5%8F%A4%E9%81%937.jpg)
+![8](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E9%A9%AC%E5%B2%AD%E5%8F%A4%E9%81%938.jpg)
+![9](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E9%A9%AC%E5%B2%AD%E5%8F%A4%E9%81%939.jpg)
+![10](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E9%A9%AC%E5%B2%AD%E5%8F%A4%E9%81%9310.jpeg)
+![11](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E9%A9%AC%E5%B2%AD%E5%8F%A4%E9%81%9311.jpeg)
+![12](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E9%A9%AC%E5%B2%AD%E5%8F%A4%E9%81%9312.jpeg)
+![13](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E9%A9%AC%E5%B2%AD%E5%8F%A4%E9%81%9313.jpeg)
+`

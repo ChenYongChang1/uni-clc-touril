@@ -72,4 +72,17 @@ export default `#### 万万没想到！上虞居然藏着一处绝美古道~九�
 ---
 
 **立即报名** ➡️ 扫码进企业微信群，开启你的松弛之旅  
-**团体定制** 👥 联系景超 18616118918`
+**团体定制** 👥 联系景超 18616118918
+![1](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E6%A2%85%E5%9D%9E%E5%8F%A4%E9%81%931.jpg)
+![2](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E6%A2%85%E5%9D%9E%E5%8F%A4%E9%81%932.png)
+![2](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E6%A2%85%E5%9D%9E%E5%8F%A4%E9%81%933.png)
+![3](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E6%A2%85%E5%9D%9E%E5%8F%A4%E9%81%933.png)
+![4](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E6%A2%85%E5%9D%9E%E5%8F%A4%E9%81%934.jpeg)
+![5](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E6%A2%85%E5%9D%9E%E5%8F%A4%E9%81%935.jpeg)
+![6](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E6%A2%85%E5%9D%9E%E5%8F%A4%E9%81%936.jpeg)
+![7](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E6%A2%85%E5%9D%9E%E5%8F%A4%E9%81%937.jpg)
+![8](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E6%A2%85%E5%9D%9E%E5%8F%A4%E9%81%938.jpeg)
+![9](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E6%A2%85%E5%9D%9E%E5%8F%A4%E9%81%939.jpeg)
+![10](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E6%A2%85%E5%9D%9E%E5%8F%A4%E9%81%9310.jpeg)
+![11](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E6%A2%85%E5%9D%9E%E5%8F%A4%E9%81%9311.jpeg)
+`

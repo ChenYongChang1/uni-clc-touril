@@ -70,4 +70,15 @@ export default `#### 起点位于安吉章里，沿途分布竹林、小溪、�
 ---
 
 **立即报名** ➡️ 扫码进企业微信群，开启你的松弛之旅  
-**团体定制** 👥 联系景超 18616118918`
+**团体定制** 👥 联系景超 18616118918
+![1](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E7%AB%A0%E9%87%8C%E5%8F%A4%E9%81%931.jpg)
+![2](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E7%AB%A0%E9%87%8C%E5%8F%A4%E9%81%932.jpeg)
+![3](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E7%AB%A0%E9%87%8C%E5%8F%A4%E9%81%933.jpeg)
+![4](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E7%AB%A0%E9%87%8C%E5%8F%A4%E9%81%934.jpg)
+![5](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E7%AB%A0%E9%87%8C%E5%8F%A4%E9%81%935.jpeg)
+![6](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E7%AB%A0%E9%87%8C%E5%8F%A4%E9%81%936.jpeg)
+![7](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E7%AB%A0%E9%87%8C%E5%8F%A4%E9%81%937.jpeg)
+![8](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E7%AB%A0%E9%87%8C%E5%8F%A4%E9%81%938.jpg)
+![9](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E7%AB%A0%E9%87%8C%E5%8F%A4%E9%81%939.jpeg)
+![10](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E7%AB%A0%E9%87%8C%E5%8F%A4%E9%81%9310.jpg)
+`

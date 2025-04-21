@@ -78,4 +78,18 @@ export default `### 🟠外走马岗
 ---
 
 **立即报名** ➡️ 扫码进企业微信群，开启你的松弛之旅  
-**团体定制** 👥 联系景超 18616118918`
+**团体定制** 👥 联系景超 18616118918
+![1](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E8%B5%B0%E9%A9%AC%E5%B2%971.jpg)
+![2](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E8%B5%B0%E9%A9%AC%E5%B2%972.jpg)
+![3](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E8%B5%B0%E9%A9%AC%E5%B2%973.jpeg)
+![4](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E8%B5%B0%E9%A9%AC%E5%B2%974.jpg)
+![5](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E8%B5%B0%E9%A9%AC%E5%B2%975.jpeg)
+![6](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E8%B5%B0%E9%A9%AC%E5%B2%976.jpeg)
+![7](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E8%B5%B0%E9%A9%AC%E5%B2%977.jpg)
+![8](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E8%B5%B0%E9%A9%AC%E5%B2%978.jpeg)
+![9](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E8%B5%B0%E9%A9%AC%E5%B2%979.jpeg)
+![10](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E8%B5%B0%E9%A9%AC%E5%B2%9710.jpeg)
+![11](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E8%B5%B0%E9%A9%AC%E5%B2%9711.jpeg)
+![12](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E8%B5%B0%E9%A9%AC%E5%B2%9712.jpeg)
+![13](https://clc-tourism-mp.oss-cn-beijing.aliyuncs.com/mp/%E8%B5%B0%E9%A9%AC%E5%B2%9713.jpeg)
+`
