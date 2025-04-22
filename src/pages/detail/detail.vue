@@ -22,6 +22,7 @@ import { computed } from "vue";
 import { marked } from "marked";
 import AtricleList from "@/config/config";
 import { onMounted, ref } from "vue";
+import { onShareAppMessage } from "@dcloudio/uni-app";
 
 // 定义一个响应式变量来存储 query 参数
 const query = ref({});
@@ -38,6 +39,14 @@ onMounted(() => {
     rowInfo.value =
       AtricleList.find((i) => i.id?.toString() === query.value.id) || {};
     // console.log(query.value, rowInfo.value);
+    uni.showShareMenu({
+      withShareTicket: true,
+      menus: ["shareAppMessage", "shareTimeline"],
+    });
+    onShareAppMessage(() => ({
+      title: decodeURIComponent(rowInfo.value.title),
+      path: "/pages/detail/detail?id=" + rowInfo.value.id,
+    }));
   }
 });
 const content = computed(() => {
